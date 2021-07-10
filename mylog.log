@@ -1,0 +1,10 @@
+2021-07-10 08:47:58,455 - root - DEBUG - This is a debug message
+2021-07-10 08:47:58,455 - root - INFO - This is an info message
+2021-07-10 08:47:58,455 - root - WARNING - This is a warning message
+2021-07-10 08:47:58,455 - root - ERROR - This is an error message
+2021-07-10 08:47:58,455 - root - CRITICAL - This is a critical message
+2021-07-10 08:51:28,305 - root - DEBUG - This is a debug message
+2021-07-10 08:51:28,305 - root - INFO - This is an info message
+2021-07-10 08:51:28,305 - root - WARNING - This is a warning message
+2021-07-10 08:51:28,305 - root - ERROR - This is an error message
+2021-07-10 08:51:28,305 - root - CRITICAL - This is a critical message
